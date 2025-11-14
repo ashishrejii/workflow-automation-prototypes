@@ -46,4 +46,19 @@ This repo shows:
 ---
 
 ## 🗂 Repository Structure
+/data-cleaning
+clean_csv.py
+dedupe.py
 
+/support-tools
+summarize_ticket.py
+classify_priority.py
+sentiment_analysis.py
+
+/api-examples
+call_api.py
+slack_notify.py
+
+/workflows
+route_task.py
+escalation_demo.py
