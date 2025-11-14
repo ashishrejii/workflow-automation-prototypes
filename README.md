@@ -114,7 +114,7 @@ escalation_demo.py (coming soon)
 
 ## 👤 About the Author
 
-Built by **Ashish Reji** — Technical Product, Customer Experience, and Systems Engineer.
+Built by **Ashish Reji** : Technical Product, Customer Experience, and Systems Engineer.
 
 I build lightweight automation tools, prototypes, and analytical workflows that improve decision-making and operational efficiency across support, travel, e-commerce, and non-profit products.
 
