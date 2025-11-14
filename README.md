@@ -45,7 +45,8 @@ This repo shows:
 
 ---
 
-## 🗂 Repository Structure
+🗂 Repository Structure
+```
 /data-cleaning
 clean_csv.py
 dedupe.py
@@ -62,3 +63,4 @@ slack_notify.py
 /workflows
 route_task.py
 escalation_demo.py
+```
