@@ -1,0 +1,18 @@
+{
+  "user": {
+    "id": 101,
+    "name": "Amit Sharma",
+    "details": {
+      "email": "amit@example.com",
+      "country": "India"
+    }
+  },
+  "orders": [
+    {"id": 1, "amount": 500},
+    {"id": 2, "amount": 750}
+  ],
+  "metadata": {
+    "signup_date": "2024-11-10",
+    "plan": "premium"
+  }
+}
