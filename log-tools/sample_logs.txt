@@ -1,0 +1,5 @@
+2025-01-12 10:15:32 INFO User logged in
+2025-01-12 10:16:01 WARNING API latency spike
+2025-01-12 10:17:22 ERROR Payment service timeout
+2025-01-12 10:18:45 INFO Session restored
+2025-01-12 10:20:10 ERROR Database connection failed
